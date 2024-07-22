@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Winemonk.Tree.Observable.WPF</name>
+    </assembly>
+    <members>
+        <member name="T:Winemonk.Tree.Observable.WPF.IObservableTreeExtension">
+            <summary>
+                可感知树扩展 - Perceived tree extension
+            </summary>
+        </member>
+        <member name="M:Winemonk.Tree.Observable.WPF.IObservableTreeExtension.ObservableFilter``1(Winemonk.Tree.Observable.IObservableTree{``0},System.Func{``0,System.Boolean})">
+            <summary>
+                过滤树，只在视图显示符合条件的节点，不修改原树结构。 - Filter tree, only display nodes that meet the criteria in the view, without modifying the original tree structure.
+            </summary>
+            <typeparam name="TTreeObservableNode">树类型 - Tree type</typeparam>
+            <param name="tree">树实例 - Tree instance</param>
+            <param name="expression">过滤验证表达式 - Filter validation expressions</param>
+            <exception cref="T:System.ArgumentNullException">参数为空异常 - Parameter null exception</exception>
+        </member>
+    </members>
+</doc>

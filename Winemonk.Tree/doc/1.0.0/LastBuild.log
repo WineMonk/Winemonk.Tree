@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2023.7.8.0" projectFile="D:\program\Winemonk.Tree\Winemonk.Tree\doc\Winemonk.Tree.shfbproj" started="2024/7/22 18:16:05">
+<buildStep step="Initializing">
+The Sandcastle tools are located in &#39;D:\software\EWSoftware\Sandcastle Help File Builder&#39;
+Locating components in the following folder(s):
+    D:\program\Winemonk.Tree\Winemonk.Tree\doc
+    C:\ProgramData\EWSoftware\Sandcastle Help File Builder\Components and Plug-Ins
+    D:\software\EWSoftware\Sandcastle Help File Builder\Components
+Using framework reflection data for &#39;.NET Core/.NET Standard/.NET 5.0+&#39; located in &#39;D:\software\EWSoftware\Sandcastle Help File Builder\Data\.NET&#39;
+Using presentation style &#39;VS2013&#39; located in &#39;D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013&#39;
+Found HTML Help 1 compiler in &#39;D:\software\HTML Help Workshop\&#39;
+Loading and initializing plug-ins...
+Lightweight Website Style Version 2023.7.8.0
+Copyright &#169; 2006-2023, Eric Woodruff, All Rights Reserved
+Portions Copyright &#169; 2014, Sam Harwell, All Rights Reserved
+</buildStep>
+<buildStep step="ValidatingDocumentationSources">
+Validating and copying documentation source information
+Source: D:\program\Winemonk.Tree\Winemonk.Tree\bin\Debug\net8.0\Winemonk.Tree.dll
+    Found assembly &#39;D:\program\Winemonk.Tree\Winemonk.Tree\bin\Debug\net8.0\Winemonk.Tree.dll&#39;
+Source: D:\program\Winemonk.Tree\Winemonk.Tree\bin\Debug\net8.0\Winemonk.Tree.xml
+
+Copying XML comments files
+    D:\program\Winemonk.Tree\Winemonk.Tree\bin\Debug\net8.0\Winemonk.Tree.xml -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Winemonk.Tree.xml
+</buildStep>
+<buildStep step="GenerateSharedContent">
+Generating shared content files (zh-CN, 中文(简体，中国))...
+<plugIn name="Lightweight Website Style" behavior="After" priority="1000">
+</plugIn>    Last step completed in 00:00:00.0060
+</buildStep>
+<buildStep step="GenerateApiFilter">
+Generating API filter for MRefBuilder...
+    Last step completed in 00:00:00.0040
+</buildStep>
+<buildStep step="GenerateReflectionInfo">
+Generating reflection information...
+[D:\software\Microsoft Visual Studio\2022\Professional\MSBuild\Current\Bin\amd64\MSBuild.exe - GenerateRefInfo-24c64c74-d462-432c-9c5d-5e5c02039ff9.proj]
+鐢熸垚鍚姩鏃堕棿涓?2024/7/22 18:16:06銆?
+
+鑺傜偣 1 涓婄殑椤圭洰鈥淒:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\GenerateRefInfo-24c64c74-d462-432c-9c5d-5e5c02039ff9.proj鈥?榛樿鐩爣)銆?
+PrepareForBuild:
+  姝ｅ湪鍒涘缓鐩綍鈥渙bj\Debug\鈥濄€?
+GenerateRefInfo:
+  Microsoft.Build (v17.10.4+10fbfbf2eeb0597fdc1f600d87d38c7f57317bdc)
+  漏 Microsoft Corporation. All rights reserved.
+  No source code context base path specified.  Source context information is unavailable.
+  Loaded 1 assemblies for reflection and 1 dependency assemblies.
+  Using framework redirect &#39;System.Collections, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&#39; in place of &#39;System.Collections, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&#39;
+  Wrote information on 1 namespaces, 3 types, and 13 members
+  Merging duplicate type and member information
+  Merged 0 duplicate type(s) and 0 duplicate member(s)
+宸插畬鎴愮敓鎴愰」鐩€淒:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\GenerateRefInfo-24c64c74-d462-432c-9c5d-5e5c02039ff9.proj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+    Last step completed in 00:00:00.6503
+</buildStep>
+<buildStep step="ApplyDocumentModel">
+Applying document model to reflection output...
+    Last step completed in 00:00:00.0379
+</buildStep>
+<buildStep step="AddNamespaceGroups">
+Adding namespace group entries...
+Added 0 namespace group entries
+    Last step completed in 00:00:00.0160
+</buildStep>
+<buildStep step="AddApiTopicFilenames">
+Adding topic filenames to API members...
+    Last step completed in 00:00:00.0060
+</buildStep>
+<buildStep step="GenerateApiTopicManifest">
+Generating API topic manifest...
+    Last step completed in 00:00:00.0060
+</buildStep>
+<buildStep step="GenerateNamespaceSummaries">
+Generating namespace summary information...
+    Last step completed in 00:00:00.0209
+</buildStep>
+<buildStep step="CopyAdditionalContent">
+Copying additional content files...
+No additional content to copy
+    Last step completed in 00:00:00.0020
+</buildStep>
+<buildStep step="MergeTablesOfContents">
+Merging conceptual and additional tables of contents...
+    Last step completed in 00:00:00.0010
+</buildStep>
+<buildStep step="GenerateIntermediateTableOfContents">
+Generating intermediate table of contents file for API content...
+Generating conceptual content intermediate TOC file...
+    Last step completed in 00:00:00.0160
+</buildStep>
+<buildStep step="CreateBuildAssemblerConfigs">
+Creating Sandcastle configuration files...
+    Last step completed in 00:00:00.1149
+</buildStep>
+<buildStep step="CombiningIntermediateTocFiles">
+Combining conceptual and API intermediate TOC files...
+    Last step completed in 00:00:00.0090
+</buildStep>
+<buildStep step="MergeCustomConfigs">
+Merging custom build component configurations
+D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\BuildAssembler.config
+  Updating reference topic configurations.
+  No conceptual content.  Removing conceptual content components.
+    Last step completed in 00:00:00.0199
+</buildStep>
+<buildStep step="BuildTopics">
+Building help topics...
+Loading configuration...
+Processing topics...
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [P:Winemonk.Tree.ITree`2.Children] Member ID URL resolver service failed.  No further look ups will be performed for this build.
+Reason: 基础连接已经关闭: 未能为 SSL/TLS 安全通道建立信任关系。
+根据验证过程，远程证书无效。
+Processed 25 topic(s)
+1 warning(s)
+CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 3 of 15.
+CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 1 of 30.
+    Last step completed in 00:00:03.5750
+</buildStep>
+<buildStep step="ExtractingHtmlInfo">
+Extracting HTML info for HTML Help 1 and/or website...
+Using LCID &#39;2052&#39;, code page &#39;936&#39;, encoding charset &#39;gb2312&#39;.
+Processing Help 1 files in D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1
+Processed 25 HTML files.  Sorting keywords and generating See Also indices.
+Saving HTML Help 1 keyword index to D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\Winemonk.Tree API Document.hhk
+Saving HTML Help 1 table of contents to D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\Winemonk.Tree API Document.hhc
+    Last step completed in 00:00:00.0449
+</buildStep>
+<buildStep step="CopyStandardHelpContent">
+Copying standard help content...
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\AlertCaution.png -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\AlertCaution.png
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\AlertNote.png -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\AlertNote.png
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\AlertSecurity.png -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\AlertSecurity.png
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\CodeExample.png -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\CodeExample.png
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\favicon.ico -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\favicon.ico
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\privClass.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\privClass.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\privDelegate.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\privDelegate.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\privEnumeration.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\privEnumeration.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\privEvent.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\privEvent.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\privExtension.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\privExtension.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\privField.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\privField.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\privInterface.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\privInterface.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\privMethod.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\privMethod.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\privProperty.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\privProperty.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\privStructure.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\privStructure.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\protClass.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\protClass.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\protDelegate.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\protDelegate.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\protEnumeration.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\protEnumeration.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\protEvent.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\protEvent.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\protExtension.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\protExtension.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\protField.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\protField.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\protInterface.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\protInterface.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\protMethod.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\protMethod.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\protOperator.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\protOperator.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\protProperty.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\protProperty.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\protStructure.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\protStructure.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\pubClass.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\pubClass.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\pubDelegate.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\pubDelegate.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\pubEnumeration.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\pubEnumeration.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\pubEvent.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\pubEvent.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\pubExtension.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\pubExtension.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\pubField.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\pubField.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\pubInterface.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\pubInterface.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\pubMethod.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\pubMethod.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\pubOperator.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\pubOperator.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\pubProperty.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\pubProperty.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\pubStructure.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\pubStructure.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\SectionCollapsed.png -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\SectionCollapsed.png
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\SectionExpanded.png -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\SectionExpanded.png
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\Static.gif -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\icons\Static.gif
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\scripts\branding.js -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\scripts\branding.js
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-cs-CZ.css -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\styles\branding-cs-CZ.css
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-de-DE.css -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\styles\branding-de-DE.css
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-en-US.css -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\styles\branding-en-US.css
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-es-ES.css -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\styles\branding-es-ES.css
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-fr-FR.css -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\styles\branding-fr-FR.css
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-Help1.css -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\styles\branding-Help1.css
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-HelpViewer.css -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\styles\branding-HelpViewer.css
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-it-IT.css -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\styles\branding-it-IT.css
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-ja-JP.css -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\styles\branding-ja-JP.css
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-ko-KR.css -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\styles\branding-ko-KR.css
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-pl-PL.css -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\styles\branding-pl-PL.css
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-pt-BR.css -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\styles\branding-pt-BR.css
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-ru-RU.css -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\styles\branding-ru-RU.css
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-tr-TR.css -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\styles\branding-tr-TR.css
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-Website.css -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\styles\branding-Website.css
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-zh-CN.css -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\styles\branding-zh-CN.css
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-zh-TW.css -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\styles\branding-zh-TW.css
+D:\software\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding.css -&gt; D:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\styles\branding.css
+    Last step completed in 00:00:00.0559
+</buildStep>
+<buildStep step="GenerateHelpProject">
+Generating HTML Help 1 project file...
+    Last step completed in 00:00:00.0040
+</buildStep>
+<buildStep step="CompilingHelpFile">
+Compiling HTML Help 1 file...
+[D:\software\Microsoft Visual Studio\2022\Professional\MSBuild\Current\Bin\amd64\MSBuild.exe - Build1xHelpFile.proj]
+
+  Microsoft HTML Help Compiler 4.74.8702
+  
+  
+  
+  Compiling d:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\Winemonk.Tree API Document.chm
+  
+  
+  
+  
+  
+  Compile time: 0 minutes, 0 seconds
+  
+  27	Topics
+  
+  247	Local links
+  
+  0	Internet links
+  
+  0	Graphics
+  
+  
+  
+  
+  
+  Created d:\program\Winemonk.Tree\Winemonk.Tree\doc\1.0.0\Working\Output\HtmlHelp1\Winemonk.Tree API Document.chm, 71,123 bytes
+  
+  Compression decreased file by 203,337 bytes.
+  
+    Last step completed in 00:00:00.4050
+</buildStep>
+<buildStep step="CleanIntermediates">
+Removing intermediate files...
+    Last step completed in 00:00:00.0219
+</buildStep>
+<buildStep step="Completed">
+
+Build completed successfully at 2024/7/22 18:16:10.  Total time: 00:00:05.6025
+
+</buildStep>
+</shfbBuild>

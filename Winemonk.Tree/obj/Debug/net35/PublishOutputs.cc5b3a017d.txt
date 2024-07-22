@@ -1,0 +1,3 @@
+D:\program\Winemonk.Tree\Winemonk.Tree\bin\Debug\net35\publish\Winemonk.Tree.dll
+D:\program\Winemonk.Tree\Winemonk.Tree\bin\Debug\net35\publish\Winemonk.Tree.pdb
+D:\program\Winemonk.Tree\Winemonk.Tree\bin\Debug\net35\publish\Winemonk.Tree.xml

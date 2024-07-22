@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Winemonk.Tree.Observable.WPF</id>
+    <version>1.0.0</version>
+    <title>Winemonk.Tree.Observable.WPF</title>
+    <authors>Winemonk</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>树结构WPF扩展，支持节点变化感知、节点结构/视图显示过滤、节点遍历。
+		Tree structure WPF extension, supporting node change perception, node structure/view display filtering, and node traversal.</description>
+    <copyright>©2024 By Winemonk</copyright>
+    <tags>Tree Observable Tree</tags>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.0">
+        <dependency id="Winemonk.Tree.Observable" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETFramework4.5">
+        <dependency id="Winemonk.Tree.Observable" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETFramework4.6">
+        <dependency id="Winemonk.Tree.Observable" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETFramework4.6.1">
+        <dependency id="Winemonk.Tree.Observable" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETFramework4.6.2">
+        <dependency id="Winemonk.Tree.Observable" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETFramework4.7">
+        <dependency id="Winemonk.Tree.Observable" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETFramework4.7.1">
+        <dependency id="Winemonk.Tree.Observable" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETFramework4.7.2">
+        <dependency id="Winemonk.Tree.Observable" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETFramework4.8">
+        <dependency id="Winemonk.Tree.Observable" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETFramework4.8.1">
+        <dependency id="Winemonk.Tree.Observable" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETCoreApp3.0">
+        <dependency id="Winemonk.Tree.Observable" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Winemonk.Tree.Observable" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net5.0-windows7.0">
+        <dependency id="Winemonk.Tree.Observable" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="Winemonk.Tree.Observable" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net7.0-windows7.0">
+        <dependency id="Winemonk.Tree.Observable" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="Winemonk.Tree.Observable" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+      <group targetFramework="net7.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+      <group targetFramework=".NETFramework4.0" />
+      <group targetFramework=".NETFramework4.5" />
+      <group targetFramework=".NETFramework4.6" />
+      <group targetFramework=".NETFramework4.6.1" />
+      <group targetFramework=".NETFramework4.6.2" />
+      <group targetFramework=".NETFramework4.7" />
+      <group targetFramework=".NETFramework4.7.1" />
+      <group targetFramework=".NETFramework4.7.2" />
+      <group targetFramework=".NETFramework4.8" />
+      <group targetFramework=".NETFramework4.8.1" />
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net40\Winemonk.Tree.Observable.WPF.dll" target="lib\net40\Winemonk.Tree.Observable.WPF.dll" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net40\Winemonk.Tree.Observable.WPF.xml" target="lib\net40\Winemonk.Tree.Observable.WPF.xml" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net45\Winemonk.Tree.Observable.WPF.dll" target="lib\net45\Winemonk.Tree.Observable.WPF.dll" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net45\Winemonk.Tree.Observable.WPF.xml" target="lib\net45\Winemonk.Tree.Observable.WPF.xml" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net46\Winemonk.Tree.Observable.WPF.dll" target="lib\net46\Winemonk.Tree.Observable.WPF.dll" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net46\Winemonk.Tree.Observable.WPF.xml" target="lib\net46\Winemonk.Tree.Observable.WPF.xml" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net461\Winemonk.Tree.Observable.WPF.dll" target="lib\net461\Winemonk.Tree.Observable.WPF.dll" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net461\Winemonk.Tree.Observable.WPF.xml" target="lib\net461\Winemonk.Tree.Observable.WPF.xml" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net462\Winemonk.Tree.Observable.WPF.dll" target="lib\net462\Winemonk.Tree.Observable.WPF.dll" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net462\Winemonk.Tree.Observable.WPF.xml" target="lib\net462\Winemonk.Tree.Observable.WPF.xml" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net47\Winemonk.Tree.Observable.WPF.dll" target="lib\net47\Winemonk.Tree.Observable.WPF.dll" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net47\Winemonk.Tree.Observable.WPF.xml" target="lib\net47\Winemonk.Tree.Observable.WPF.xml" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net471\Winemonk.Tree.Observable.WPF.dll" target="lib\net471\Winemonk.Tree.Observable.WPF.dll" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net471\Winemonk.Tree.Observable.WPF.xml" target="lib\net471\Winemonk.Tree.Observable.WPF.xml" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net472\Winemonk.Tree.Observable.WPF.dll" target="lib\net472\Winemonk.Tree.Observable.WPF.dll" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net472\Winemonk.Tree.Observable.WPF.xml" target="lib\net472\Winemonk.Tree.Observable.WPF.xml" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net48\Winemonk.Tree.Observable.WPF.dll" target="lib\net48\Winemonk.Tree.Observable.WPF.dll" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net48\Winemonk.Tree.Observable.WPF.xml" target="lib\net48\Winemonk.Tree.Observable.WPF.xml" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net481\Winemonk.Tree.Observable.WPF.dll" target="lib\net481\Winemonk.Tree.Observable.WPF.dll" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net481\Winemonk.Tree.Observable.WPF.xml" target="lib\net481\Winemonk.Tree.Observable.WPF.xml" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net5.0-windows\Winemonk.Tree.Observable.WPF.dll" target="lib\net5.0-windows7.0\Winemonk.Tree.Observable.WPF.dll" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net5.0-windows\Winemonk.Tree.Observable.WPF.xml" target="lib\net5.0-windows7.0\Winemonk.Tree.Observable.WPF.xml" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net6.0-windows\Winemonk.Tree.Observable.WPF.dll" target="lib\net6.0-windows7.0\Winemonk.Tree.Observable.WPF.dll" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net6.0-windows\Winemonk.Tree.Observable.WPF.xml" target="lib\net6.0-windows7.0\Winemonk.Tree.Observable.WPF.xml" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net7.0-windows\Winemonk.Tree.Observable.WPF.dll" target="lib\net7.0-windows7.0\Winemonk.Tree.Observable.WPF.dll" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net7.0-windows\Winemonk.Tree.Observable.WPF.xml" target="lib\net7.0-windows7.0\Winemonk.Tree.Observable.WPF.xml" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net8.0-windows\Winemonk.Tree.Observable.WPF.dll" target="lib\net8.0-windows7.0\Winemonk.Tree.Observable.WPF.dll" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net8.0-windows\Winemonk.Tree.Observable.WPF.xml" target="lib\net8.0-windows7.0\Winemonk.Tree.Observable.WPF.xml" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\netcoreapp3.0\Winemonk.Tree.Observable.WPF.dll" target="lib\netcoreapp3.0\Winemonk.Tree.Observable.WPF.dll" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\netcoreapp3.0\Winemonk.Tree.Observable.WPF.xml" target="lib\netcoreapp3.0\Winemonk.Tree.Observable.WPF.xml" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\netcoreapp3.1\Winemonk.Tree.Observable.WPF.dll" target="lib\netcoreapp3.1\Winemonk.Tree.Observable.WPF.dll" />
+    <file src="D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\netcoreapp3.1\Winemonk.Tree.Observable.WPF.xml" target="lib\netcoreapp3.1\Winemonk.Tree.Observable.WPF.xml" />
+  </files>
+</package>

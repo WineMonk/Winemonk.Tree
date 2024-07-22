@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/27APWbVfvs=",
+  "success": true,
+  "projectFilePath": "D:\\program\\Winemonk.Tree\\Winemonk.Tree.Observable.WPF.Example\\Winemonk.Tree.Observable.WPF.Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

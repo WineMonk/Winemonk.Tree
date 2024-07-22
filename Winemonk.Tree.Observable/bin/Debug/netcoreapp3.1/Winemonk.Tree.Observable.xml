@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Winemonk.Tree.Observable</name>
+    </assembly>
+    <members>
+        <member name="T:Winemonk.Tree.Observable.IObservableTreeExtension">
+            <summary>
+                可感知树扩展 - Perceived tree extension
+            </summary>
+        </member>
+        <member name="M:Winemonk.Tree.Observable.IObservableTreeExtension.Filter``1(Winemonk.Tree.Observable.IObservableTree{``0},System.Func{``0,System.Boolean},System.Boolean)">
+            <summary>
+                过滤树 - Filter Tree
+            </summary>
+            <typeparam name="TObservableTreeNode">树类型 - Tree type</typeparam>
+            <param name="tree">树实例 - Tree instance</param>
+            <param name="expression">过滤验证表达式 - Filter validation expressions</param>
+            <param name="isClone">过滤结果是否以新生成的拷贝对象返回 - Is the filtering result returned as a newly generated copy object</param>
+            <returns>
+                过滤后的树实例。 - Filtered tree instance.
+            </returns>
+            <exception cref="T:System.ArgumentNullException">参数为空异常 - Parameter null exception</exception>
+            <exception cref="T:System.NotSupportedException">树类型不支持此方法异常 - Tree type does not support this method exception</exception>
+            <exception cref="T:System.InvalidOperationException">克隆失败异常 - Clone failed exception</exception>
+        </member>
+        <member name="M:Winemonk.Tree.Observable.IObservableTreeExtension.Traversal``1(Winemonk.Tree.Observable.IObservableTree{``0},System.Action{``0})">
+            <summary>
+            遍历树 - Traverse the tree
+            </summary>
+            <typeparam name="TObservableTreeNode">树类型 - Tree type</typeparam>
+            <param name="tree">树实例 - Tree instance</param>
+            <param name="expression">过滤验证表达式 - Filter validation expressions</param>
+            <exception cref="T:System.ArgumentNullException">参数为空异常 - Parameter null exception</exception>
+            <exception cref="T:System.NotSupportedException">树类型不支持此方法异常 - Tree type does not support this method exception</exception>
+        </member>
+        <member name="T:Winemonk.Tree.Observable.IObservableTree`1">
+            <summary>
+                可感知树接口 - Perceived tree interface
+            </summary>
+            <typeparam name="TTreeNode">节点类型 - Node type</typeparam>
+        </member>
+        <member name="P:Winemonk.Tree.Observable.IObservableTree`1.Parent">
+            <summary>
+                父节点 - Parent node
+            </summary>
+            <remarks>
+                序列化时需要忽略此属性！ - This property should be ignored when serializing!
+            </remarks>
+        </member>
+        <member name="P:Winemonk.Tree.Observable.IObservableTree`1.Children">
+            <summary>
+                子节点 - Children nodes
+            </summary>
+        </member>
+        <member name="M:Winemonk.Tree.Observable.IObservableTree`1.Clone">
+            <summary>
+                克隆 - Clone
+            </summary>
+            <returns>
+                克隆实例。 - Clone instance.
+            </returns>
+        </member>
+    </members>
+</doc>

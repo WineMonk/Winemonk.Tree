@@ -1,0 +1,11 @@
+D:\program\Winemonk.Tree\Winemonk.Tree\bin\Debug\netcoreapp3.1\Winemonk.Tree.deps.json
+D:\program\Winemonk.Tree\Winemonk.Tree\bin\Debug\netcoreapp3.1\Winemonk.Tree.dll
+D:\program\Winemonk.Tree\Winemonk.Tree\bin\Debug\netcoreapp3.1\Winemonk.Tree.pdb
+D:\program\Winemonk.Tree\Winemonk.Tree\obj\Debug\netcoreapp3.1\Winemonk.Tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\program\Winemonk.Tree\Winemonk.Tree\obj\Debug\netcoreapp3.1\Winemonk.Tree.AssemblyInfoInputs.cache
+D:\program\Winemonk.Tree\Winemonk.Tree\obj\Debug\netcoreapp3.1\Winemonk.Tree.AssemblyInfo.cs
+D:\program\Winemonk.Tree\Winemonk.Tree\obj\Debug\netcoreapp3.1\Winemonk.Tree.csproj.CoreCompileInputs.cache
+D:\program\Winemonk.Tree\Winemonk.Tree\obj\Debug\netcoreapp3.1\Winemonk.Tree.dll
+D:\program\Winemonk.Tree\Winemonk.Tree\obj\Debug\netcoreapp3.1\Winemonk.Tree.pdb
+D:\program\Winemonk.Tree\Winemonk.Tree\bin\Debug\netcoreapp3.1\Winemonk.Tree.xml
+D:\program\Winemonk.Tree\Winemonk.Tree\obj\Debug\netcoreapp3.1\Winemonk.Tree.xml

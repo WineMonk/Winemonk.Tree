@@ -1,0 +1,52 @@
+﻿<Window
+    x:Class="Winemonk.Tree.Observable.WPF.Example.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:Winemonk.Tree.Observable.WPF.Example"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="800"
+    Height="450"
+    mc:Ignorable="d">
+    <Window.DataContext>
+        <local:MainWindowViewModel />
+    </Window.DataContext>
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <DockPanel>
+            <Button
+                Command="{Binding SearchCommand}"
+                Content="查  询"
+                Cursor="Hand"
+                DockPanel.Dock="Right" />
+            <TextBox Text="{Binding SearchText}" />
+        </DockPanel>
+        <TreeView
+            Grid.Row="1"
+            HorizontalContentAlignment="Stretch"
+            VerticalContentAlignment="Stretch"
+            ItemsSource="{Binding TreeNodes}">
+            <TreeView.ItemContainerStyle>
+                <Style TargetType="TreeViewItem">
+                    <Setter Property="IsExpanded" Value="True" />
+                </Style>
+            </TreeView.ItemContainerStyle>
+            <TreeView.ItemTemplate>
+                <HierarchicalDataTemplate ItemsSource="{Binding Children}">
+                    <DockPanel x:Name="dp" Margin="0,2,0,2">
+                        <TextBlock
+                            VerticalAlignment="Center"
+                            FontSize="14"
+                            IsHitTestVisible="True"
+                            Text="{Binding Name}" />
+                        <TextBlock IsHitTestVisible="True" />
+                    </DockPanel>
+                </HierarchicalDataTemplate>
+            </TreeView.ItemTemplate>
+        </TreeView>
+    </Grid>
+</Window>

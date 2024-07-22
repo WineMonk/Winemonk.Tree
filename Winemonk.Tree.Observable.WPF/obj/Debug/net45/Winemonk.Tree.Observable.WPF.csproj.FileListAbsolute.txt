@@ -1,0 +1,15 @@
+D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net45\Winemonk.Tree.Observable.WPF.dll
+D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net45\Winemonk.Tree.Observable.WPF.pdb
+D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net45\Winemonk.Tree.Observable.dll
+D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net45\Winemonk.Tree.Observable.pdb
+D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\obj\Debug\net45\Winemonk.Tree.Observable.WPF.csproj.AssemblyReference.cache
+D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\obj\Debug\net45\Winemonk.Tree.Observable.WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\obj\Debug\net45\Winemonk.Tree.Observable.WPF.AssemblyInfoInputs.cache
+D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\obj\Debug\net45\Winemonk.Tree.Observable.WPF.AssemblyInfo.cs
+D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\obj\Debug\net45\Winemonk.Tree.Observable.WPF.csproj.CoreCompileInputs.cache
+D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\obj\Debug\net45\Winemonk.1B5DC234.Up2Date
+D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\obj\Debug\net45\Winemonk.Tree.Observable.WPF.dll
+D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\obj\Debug\net45\Winemonk.Tree.Observable.WPF.pdb
+D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net45\Winemonk.Tree.Observable.WPF.xml
+D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net45\Winemonk.Tree.Observable.xml
+D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\obj\Debug\net45\Winemonk.Tree.Observable.WPF.xml

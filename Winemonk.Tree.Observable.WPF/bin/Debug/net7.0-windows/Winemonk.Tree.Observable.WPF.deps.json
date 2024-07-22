@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Winemonk.Tree.Observable.WPF/1.0.0": {
+        "dependencies": {
+          "Winemonk.Tree.Observable": "1.0.0"
+        },
+        "runtime": {
+          "Winemonk.Tree.Observable.WPF.dll": {}
+        }
+      },
+      "Winemonk.Tree.Observable/1.0.0": {
+        "runtime": {
+          "Winemonk.Tree.Observable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Winemonk.Tree.Observable.WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Winemonk.Tree.Observable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

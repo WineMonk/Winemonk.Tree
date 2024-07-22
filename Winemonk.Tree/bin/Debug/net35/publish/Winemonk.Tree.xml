@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Winemonk.Tree</name>
+    </assembly>
+    <members>
+        <member name="T:Winemonk.Tree.ITreeExtension">
+            <summary>
+            树扩展
+            </summary>
+        </member>
+        <member name="M:Winemonk.Tree.ITreeExtension.Filter``1(Winemonk.Tree.ITree{``0},System.Func{``0,System.Boolean},System.Boolean)">
+            <summary>
+            过滤树
+            </summary>
+            <typeparam name="TTreeNode">树类型</typeparam>
+            <param name="tree">树实例</param>
+            <param name="expression">过滤验证表达式</param>
+            <param name="isClone">过滤结果是否以新生成的拷贝对象返回</param>
+            <returns>过滤后的树实例</returns>
+            <exception cref="T:System.ArgumentNullException">参数为空异常</exception>
+            <exception cref="T:System.NotSupportedException">数类型不支持此方法异常</exception>
+            <exception cref="T:System.InvalidOperationException">克隆失败异常</exception>
+        </member>
+        <member name="M:Winemonk.Tree.ITreeExtension.Traversal``1(Winemonk.Tree.ITree{``0},System.Action{``0})">
+            <summary>
+            遍历树
+            </summary>
+            <typeparam name="TTreeNode">树类型</typeparam>
+            <param name="tree">树实例</param>
+            <param name="expression">遍历表达式</param>
+            <exception cref="T:System.ArgumentNullException">参数为空异常</exception>
+            <exception cref="T:System.NotSupportedException">数类型不支持此方法异常</exception>
+        </member>
+        <member name="M:Winemonk.Tree.ITreeExtension.Filter``2(Winemonk.Tree.ITree{``0,``1},System.Func{``1,System.Boolean},System.Boolean)">
+            <summary>
+            过滤树
+            </summary>
+            <typeparam name="TKey">键类型</typeparam>
+            <typeparam name="TTreeNode">树类型</typeparam>
+            <param name="tree">树实例</param>
+            <param name="expression">过滤验证表达式</param>
+            <param name="isClone">过滤结果是否以新生成的拷贝对象返回</param>
+            <returns>过滤后的树实例</returns>
+            <exception cref="T:System.ArgumentNullException">参数为空异常</exception>
+            <exception cref="T:System.NotSupportedException">数类型不支持此方法异常</exception>
+            <exception cref="T:System.InvalidOperationException">克隆失败异常</exception>
+        </member>
+        <member name="M:Winemonk.Tree.ITreeExtension.Traversal``2(Winemonk.Tree.ITree{``0,``1},System.Action{``1})">
+            <summary>
+            遍历树
+            </summary>
+            <typeparam name="TKey">键类型</typeparam>
+            <typeparam name="TTreeNode">树类型</typeparam>
+            <param name="tree">树实例</param>
+            <param name="expression">遍历表达式</param>
+            <exception cref="T:System.ArgumentNullException">参数为空异常</exception>
+            <exception cref="T:System.NotSupportedException">数类型不支持此方法异常</exception>
+        </member>
+        <member name="T:Winemonk.Tree.ITree`1">
+            <summary>
+            变化可视树或树节点
+            </summary>
+            <typeparam name="TTreeNode">树类型</typeparam>
+        </member>
+        <member name="P:Winemonk.Tree.ITree`1.Parent">
+            <summary>
+            父节点
+            </summary>
+            <remarks>
+                序列化时需要忽略此属性！
+            </remarks>
+        </member>
+        <member name="P:Winemonk.Tree.ITree`1.Children">
+            <summary>
+            子节点
+            </summary>
+        </member>
+        <member name="M:Winemonk.Tree.ITree`1.Clone">
+            <summary>
+            克隆
+            </summary>
+            <returns>克隆结果实例</returns>
+        </member>
+        <member name="T:Winemonk.Tree.ITree`2">
+            <summary>
+            拥有键的变化可视树或树节点
+            </summary>
+            <typeparam name="TKey">键类型</typeparam>
+            <typeparam name="TTreeNode">树类型</typeparam>
+        </member>
+        <member name="P:Winemonk.Tree.ITree`2.Key">
+            <summary>
+            键
+            </summary>
+        </member>
+        <member name="P:Winemonk.Tree.ITree`2.PKey">
+            <summary>
+            父节点键
+            </summary>
+        </member>
+        <member name="P:Winemonk.Tree.ITree`2.Parent">
+            <summary>
+            父节点
+            </summary>
+            <remarks>
+                序列化时需要忽略此属性！
+            </remarks>
+        </member>
+        <member name="P:Winemonk.Tree.ITree`2.Children">
+            <summary>
+            子节点
+            </summary>
+        </member>
+        <member name="P:Winemonk.Tree.ITree`2.Item(`0)">
+            <summary>
+            子节点索引器
+            </summary>
+            <param name="key">键</param>
+            <returns>对应子节点</returns>
+        </member>
+        <member name="M:Winemonk.Tree.ITree`2.Clone">
+            <summary>
+            克隆
+            </summary>
+            <returns>克隆结果实例</returns>
+        </member>
+    </members>
+</doc>
