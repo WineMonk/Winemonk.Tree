@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<DotNetCliTool Version="1">
-  <Commands>
-    <Command Name="Winemonk.Tree" EntryPoint="Winemonk.Tree.dll" Runner="dotnet" />
-  </Commands>
-</DotNetCliTool>
