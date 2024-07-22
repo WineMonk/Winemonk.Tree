@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute("\r\n\t\t基础树结构，支持节点过滤、节点遍历。\r\n\t\tBasic tree structure, supporting node filtering and nod" +
     "e traversal.\r\n\t")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bb30cbc0daacccd5108f4a17cd871186e9019c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Winemonk.Tree")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Winemonk.Tree")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0")]

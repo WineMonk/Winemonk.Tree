@@ -9,3 +9,4 @@ D:\program\Winemonk.Tree\Winemonk.Tree.Observable\obj\Debug\net48\Winemonk.Tree.
 D:\program\Winemonk.Tree\Winemonk.Tree.Observable\obj\Debug\net48\Winemonk.Tree.Observable.pdb
 D:\program\Winemonk.Tree\Winemonk.Tree.Observable\bin\Debug\net48\Winemonk.Tree.Observable.xml
 D:\program\Winemonk.Tree\Winemonk.Tree.Observable\obj\Debug\net48\Winemonk.Tree.Observable.xml
+D:\program\Winemonk.Tree\Winemonk.Tree.Observable\obj\Debug\net48\Winemonk.Tree.Observable.sourcelink.json

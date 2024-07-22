@@ -11,3 +11,4 @@ D:\program\Winemonk.Tree\Winemonk.Tree.Observable\obj\Debug\net5.0\Winemonk.Tree
 D:\program\Winemonk.Tree\Winemonk.Tree.Observable\obj\Debug\net5.0\ref\Winemonk.Tree.Observable.dll
 D:\program\Winemonk.Tree\Winemonk.Tree.Observable\bin\Debug\net5.0\Winemonk.Tree.Observable.xml
 D:\program\Winemonk.Tree\Winemonk.Tree.Observable\obj\Debug\net5.0\Winemonk.Tree.Observable.xml
+D:\program\Winemonk.Tree\Winemonk.Tree.Observable\obj\Debug\net5.0\Winemonk.Tree.Observable.sourcelink.json

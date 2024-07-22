@@ -18,7 +18,7 @@ using System.Reflection;
     "ng node change perception, node structure/view display filtering, and node trave" +
     "rsal.\r\n\t")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bb30cbc0daacccd5108f4a17cd871186e9019c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Winemonk.Tree.Observable.WPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Winemonk.Tree.Observable.WPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0")]

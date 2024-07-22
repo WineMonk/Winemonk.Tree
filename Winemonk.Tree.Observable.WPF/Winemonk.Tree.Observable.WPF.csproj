@@ -22,6 +22,7 @@
 	<PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
 	<UseWPF>true</UseWPF>
+	<PackageProjectUrl>https://github.com/WineMonk/Winemonk.Tree/tree/master/Winemonk.Tree.Observable.WPF</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>

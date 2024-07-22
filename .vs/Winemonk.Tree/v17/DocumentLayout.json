@@ -3,43 +3,20 @@
   "WorkspaceRootPath": "D:\\program\\Winemonk.Tree\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C28848F4-BBD5-4E6E-9B26-B6EAF60BCC7E}|Winemonk.Tree.Observable.WPF.Example\\Winemonk.Tree.Observable.WPF.Example.csproj|d:\\program\\winemonk.tree\\winemonk.tree.observable.wpf.example\\datacatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C28848F4-BBD5-4E6E-9B26-B6EAF60BCC7E}|Winemonk.Tree.Observable.WPF.Example\\Winemonk.Tree.Observable.WPF.Example.csproj|solutionrelative:winemonk.tree.observable.wpf.example\\datacatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B3CC4D2-D51A-4EC3-88F0-438B2BD83737}|Winemonk.Tree.Observable.WPF\\Winemonk.Tree.Observable.WPF.csproj|d:\\program\\winemonk.tree\\winemonk.tree.observable.wpf\\winemonk.tree.observable.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B3CC4D2-D51A-4EC3-88F0-438B2BD83737}|Winemonk.Tree.Observable.WPF\\Winemonk.Tree.Observable.WPF.csproj|solutionrelative:winemonk.tree.observable.wpf\\winemonk.tree.observable.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\VSGeneratedDocuments\\87983f21-1309-e639-e02b-a18a73a3966d\\Winemonk.Tree.Observable.WPF.Example.DataCatalog.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C28848F4-BBD5-4E6E-9B26-B6EAF60BCC7E}|Winemonk.Tree.Observable.WPF.Example\\Winemonk.Tree.Observable.WPF.Example.csproj|d:\\program\\winemonk.tree\\winemonk.tree.observable.wpf.example\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C28848F4-BBD5-4E6E-9B26-B6EAF60BCC7E}|Winemonk.Tree.Observable.WPF.Example\\Winemonk.Tree.Observable.WPF.Example.csproj|solutionrelative:winemonk.tree.observable.wpf.example\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B3CC4D2-D51A-4EC3-88F0-438B2BD83737}|Winemonk.Tree.Observable.WPF\\Winemonk.Tree.Observable.WPF.csproj|d:\\program\\winemonk.tree\\winemonk.tree.observable.wpf\\iobservabletreeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B3CC4D2-D51A-4EC3-88F0-438B2BD83737}|Winemonk.Tree.Observable.WPF\\Winemonk.Tree.Observable.WPF.csproj|solutionrelative:winemonk.tree.observable.wpf\\iobservabletreeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8427270B-DF9D-43A4-9704-DE91DC06E61A}|Winemonk.Tree.Observable\\Winemonk.Tree.Observable.csproj|d:\\program\\winemonk.tree\\winemonk.tree.observable\\iobservabletreeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8427270B-DF9D-43A4-9704-DE91DC06E61A}|Winemonk.Tree.Observable\\Winemonk.Tree.Observable.csproj|solutionrelative:winemonk.tree.observable\\iobservabletreeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8427270B-DF9D-43A4-9704-DE91DC06E61A}|Winemonk.Tree.Observable\\Winemonk.Tree.Observable.csproj|d:\\program\\winemonk.tree\\winemonk.tree.observable\\iobservabletree\u00601.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8427270B-DF9D-43A4-9704-DE91DC06E61A}|Winemonk.Tree.Observable\\Winemonk.Tree.Observable.csproj|solutionrelative:winemonk.tree.observable\\iobservabletree\u00601.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCD6F18D-1E6F-4F18-95CD-48F115EDE4DA}|Winemonk.Tree\\Winemonk.Tree.csproj|d:\\program\\winemonk.tree\\winemonk.tree\\itreeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCD6F18D-1E6F-4F18-95CD-48F115EDE4DA}|Winemonk.Tree\\Winemonk.Tree.csproj|solutionrelative:winemonk.tree\\itreeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCD6F18D-1E6F-4F18-95CD-48F115EDE4DA}|Winemonk.Tree\\Winemonk.Tree.csproj|d:\\program\\winemonk.tree\\winemonk.tree\\itree\u00602.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCD6F18D-1E6F-4F18-95CD-48F115EDE4DA}|Winemonk.Tree\\Winemonk.Tree.csproj|solutionrelative:winemonk.tree\\itree\u00602.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCD6F18D-1E6F-4F18-95CD-48F115EDE4DA}|Winemonk.Tree\\Winemonk.Tree.csproj|d:\\program\\winemonk.tree\\winemonk.tree\\itree\u00601.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCD6F18D-1E6F-4F18-95CD-48F115EDE4DA}|Winemonk.Tree\\Winemonk.Tree.csproj|solutionrelative:winemonk.tree\\itree\u00601.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCD6F18D-1E6F-4F18-95CD-48F115EDE4DA}|Winemonk.Tree\\Winemonk.Tree.csproj|d:\\program\\winemonk.tree\\winemonk.tree\\winemonk.tree.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CCD6F18D-1E6F-4F18-95CD-48F115EDE4DA}|Winemonk.Tree\\Winemonk.Tree.csproj|solutionrelative:winemonk.tree\\winemonk.tree.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8427270B-DF9D-43A4-9704-DE91DC06E61A}|Winemonk.Tree.Observable\\Winemonk.Tree.Observable.csproj|d:\\program\\winemonk.tree\\winemonk.tree.observable\\winemonk.tree.observable.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8427270B-DF9D-43A4-9704-DE91DC06E61A}|Winemonk.Tree.Observable\\Winemonk.Tree.Observable.csproj|solutionrelative:winemonk.tree.observable\\winemonk.tree.observable.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD6F18D-1E6F-4F18-95CD-48F115EDE4DA}|Winemonk.Tree\\Winemonk.Tree.csproj|d:\\program\\winemonk.tree\\winemonk.tree\\winemonk.tree.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CCD6F18D-1E6F-4F18-95CD-48F115EDE4DA}|Winemonk.Tree\\Winemonk.Tree.csproj|solutionrelative:winemonk.tree\\winemonk.tree.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,135 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Winemonk.Tree.Observable.WPF.Example.DataCatalog.g.cs [\u5DF2\u751F\u6210]",
-              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\VSGeneratedDocuments\\87983f21-1309-e639-e02b-a18a73a3966d\\Winemonk.Tree.Observable.WPF.Example.DataCatalog.g.cs",
-              "ToolTip": "Winemonk.Tree.Observable.WPF.Example.DataCatalog.g.cs [\u7531 CommunityToolkit.Mvvm.SourceGenerators.ObservablePropertyGenerator \u751F\u6210]",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAswAYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "OverriddenToolTip": "Winemonk.Tree.Observable.WPF.Example.DataCatalog.g.cs [\u7531 CommunityToolkit.Mvvm.SourceGenerators.ObservablePropertyGenerator \u751F\u6210]",
-              "WhenOpened": "2024-07-22T10:15:22.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IObservableTreeExtension.cs",
-              "DocumentMoniker": "D:\\program\\Winemonk.Tree\\Winemonk.Tree.Observable.WPF\\IObservableTreeExtension.cs",
-              "RelativeDocumentMoniker": "Winemonk.Tree.Observable.WPF\\IObservableTreeExtension.cs",
-              "ToolTip": "D:\\program\\Winemonk.Tree\\Winemonk.Tree.Observable.WPF\\IObservableTreeExtension.cs",
-              "RelativeToolTip": "Winemonk.Tree.Observable.WPF\\IObservableTreeExtension.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T10:06:32.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IObservableTreeExtension.cs",
-              "DocumentMoniker": "D:\\program\\Winemonk.Tree\\Winemonk.Tree.Observable\\IObservableTreeExtension.cs",
-              "RelativeDocumentMoniker": "Winemonk.Tree.Observable\\IObservableTreeExtension.cs",
-              "ToolTip": "D:\\program\\Winemonk.Tree\\Winemonk.Tree.Observable\\IObservableTreeExtension.cs",
-              "RelativeToolTip": "Winemonk.Tree.Observable\\IObservableTreeExtension.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T10:03:16.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IObservableTree\u00601.cs",
-              "DocumentMoniker": "D:\\program\\Winemonk.Tree\\Winemonk.Tree.Observable\\IObservableTree\u00601.cs",
-              "RelativeDocumentMoniker": "Winemonk.Tree.Observable\\IObservableTree\u00601.cs",
-              "ToolTip": "D:\\program\\Winemonk.Tree\\Winemonk.Tree.Observable\\IObservableTree\u00601.cs",
-              "RelativeToolTip": "Winemonk.Tree.Observable\\IObservableTree\u00601.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:59:18.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DataCatalog.cs",
-              "DocumentMoniker": "D:\\program\\Winemonk.Tree\\Winemonk.Tree.Observable.WPF.Example\\DataCatalog.cs",
-              "RelativeDocumentMoniker": "Winemonk.Tree.Observable.WPF.Example\\DataCatalog.cs",
-              "ToolTip": "D:\\program\\Winemonk.Tree\\Winemonk.Tree.Observable.WPF.Example\\DataCatalog.cs",
-              "RelativeToolTip": "Winemonk.Tree.Observable.WPF.Example\\DataCatalog.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:42:26.496Z",
+              "Title": "Winemonk.Tree.Observable.WPF",
+              "DocumentMoniker": "D:\\program\\Winemonk.Tree\\Winemonk.Tree.Observable.WPF\\Winemonk.Tree.Observable.WPF.csproj",
+              "RelativeDocumentMoniker": "Winemonk.Tree.Observable.WPF\\Winemonk.Tree.Observable.WPF.csproj",
+              "ToolTip": "D:\\program\\Winemonk.Tree\\Winemonk.Tree.Observable.WPF\\Winemonk.Tree.Observable.WPF.csproj",
+              "RelativeToolTip": "Winemonk.Tree.Observable.WPF\\Winemonk.Tree.Observable.WPF.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T10:33:33.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Winemonk.Tree",
+              "DocumentMoniker": "D:\\program\\Winemonk.Tree\\Winemonk.Tree\\Winemonk.Tree.csproj",
+              "RelativeDocumentMoniker": "Winemonk.Tree\\Winemonk.Tree.csproj",
+              "ToolTip": "D:\\program\\Winemonk.Tree\\Winemonk.Tree\\Winemonk.Tree.csproj",
+              "RelativeToolTip": "Winemonk.Tree\\Winemonk.Tree.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T10:33:11.024Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "D:\\program\\Winemonk.Tree\\Winemonk.Tree.Observable.WPF.Example\\MainWindowViewModel.cs",
-              "RelativeDocumentMoniker": "Winemonk.Tree.Observable.WPF.Example\\MainWindowViewModel.cs",
-              "ToolTip": "D:\\program\\Winemonk.Tree\\Winemonk.Tree.Observable.WPF.Example\\MainWindowViewModel.cs",
-              "RelativeToolTip": "Winemonk.Tree.Observable.WPF.Example\\MainWindowViewModel.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:42:24.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ITreeExtension.cs",
-              "DocumentMoniker": "D:\\program\\Winemonk.Tree\\Winemonk.Tree\\ITreeExtension.cs",
-              "RelativeDocumentMoniker": "Winemonk.Tree\\ITreeExtension.cs",
-              "ToolTip": "D:\\program\\Winemonk.Tree\\Winemonk.Tree\\ITreeExtension.cs",
-              "RelativeToolTip": "Winemonk.Tree\\ITreeExtension.cs",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAgwHMAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:42:05.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ITree\u00602.cs",
-              "DocumentMoniker": "D:\\program\\Winemonk.Tree\\Winemonk.Tree\\ITree\u00602.cs",
-              "RelativeDocumentMoniker": "Winemonk.Tree\\ITree\u00602.cs",
-              "ToolTip": "D:\\program\\Winemonk.Tree\\Winemonk.Tree\\ITree\u00602.cs",
-              "RelativeToolTip": "Winemonk.Tree\\ITree\u00602.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:40:11.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ITree\u00601.cs",
-              "DocumentMoniker": "D:\\program\\Winemonk.Tree\\Winemonk.Tree\\ITree\u00601.cs",
-              "RelativeDocumentMoniker": "Winemonk.Tree\\ITree\u00601.cs",
-              "ToolTip": "D:\\program\\Winemonk.Tree\\Winemonk.Tree\\ITree\u00601.cs",
-              "RelativeToolTip": "Winemonk.Tree\\ITree\u00601.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:38:26.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Winemonk.Tree.Observable",
               "DocumentMoniker": "D:\\program\\Winemonk.Tree\\Winemonk.Tree.Observable\\Winemonk.Tree.Observable.csproj",
               "RelativeDocumentMoniker": "Winemonk.Tree.Observable\\Winemonk.Tree.Observable.csproj",
               "ToolTip": "D:\\program\\Winemonk.Tree\\Winemonk.Tree.Observable\\Winemonk.Tree.Observable.csproj",
               "RelativeToolTip": "Winemonk.Tree.Observable\\Winemonk.Tree.Observable.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-22T09:24:16.812Z",
+              "WhenOpened": "2024-07-22T10:33:09.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Winemonk.Tree",
+              "DocumentMoniker": "D:\\program\\Winemonk.Tree\\Winemonk.Tree\\Winemonk.Tree.csproj",
+              "RelativeDocumentMoniker": "Winemonk.Tree\\Winemonk.Tree.csproj",
+              "ToolTip": "D:\\program\\Winemonk.Tree\\Winemonk.Tree\\Winemonk.Tree.csproj",
+              "RelativeToolTip": "Winemonk.Tree\\Winemonk.Tree.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T10:32:04.616Z",
               "EditorCaption": ""
             }
           ]

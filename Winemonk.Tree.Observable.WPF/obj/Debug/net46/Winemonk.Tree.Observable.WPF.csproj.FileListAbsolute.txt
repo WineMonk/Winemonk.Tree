@@ -13,3 +13,4 @@ D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\obj\Debug\net46\Winemonk.T
 D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net46\Winemonk.Tree.Observable.WPF.xml
 D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\bin\Debug\net46\Winemonk.Tree.Observable.xml
 D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\obj\Debug\net46\Winemonk.Tree.Observable.WPF.xml
+D:\program\Winemonk.Tree\Winemonk.Tree.Observable.WPF\obj\Debug\net46\Winemonk.Tree.Observable.WPF.sourcelink.json

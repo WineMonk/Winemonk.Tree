@@ -9,3 +9,4 @@ D:\program\Winemonk.Tree\Winemonk.Tree\obj\Debug\net40\Winemonk.Tree.dll
 D:\program\Winemonk.Tree\Winemonk.Tree\obj\Debug\net40\Winemonk.Tree.pdb
 D:\program\Winemonk.Tree\Winemonk.Tree\bin\Debug\net40\Winemonk.Tree.xml
 D:\program\Winemonk.Tree\Winemonk.Tree\obj\Debug\net40\Winemonk.Tree.xml
+D:\program\Winemonk.Tree\Winemonk.Tree\obj\Debug\net40\Winemonk.Tree.sourcelink.json

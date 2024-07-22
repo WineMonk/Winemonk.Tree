@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Winemonk.Tree.Observable.WPF.Example")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bb30cbc0daacccd5108f4a17cd871186e9019c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Winemonk.Tree.Observable.WPF.Example")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Winemonk.Tree.Observable.WPF.Example")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

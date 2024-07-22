@@ -21,5 +21,6 @@
 	<SignAssembly>False</SignAssembly>
 	<PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<PackageProjectUrl>https://github.com/WineMonk/Winemonk.Tree/tree/master/Winemonk.Tree.Observable</PackageProjectUrl>
   </PropertyGroup>
 </Project>

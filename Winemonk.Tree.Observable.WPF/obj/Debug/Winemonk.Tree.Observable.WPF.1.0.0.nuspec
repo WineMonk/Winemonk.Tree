@@ -8,11 +8,12 @@
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <license type="expression">MIT</license>
     <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/WineMonk/Winemonk.Tree/tree/master/Winemonk.Tree.Observable.WPF</projectUrl>
     <description>树结构WPF扩展，支持节点变化感知、节点结构/视图显示过滤、节点遍历。
 		Tree structure WPF extension, supporting node change perception, node structure/view display filtering, and node traversal.</description>
     <copyright>©2024 By Winemonk</copyright>
     <tags>Tree Observable Tree</tags>
-    <repository type="git" />
+    <repository type="git" commit="2bb30cbc0daacccd5108f4a17cd871186e9019c7" />
     <dependencies>
       <group targetFramework=".NETFramework4.0">
         <dependency id="Winemonk.Tree.Observable" version="1.0.0" exclude="Build,Analyzers" />
