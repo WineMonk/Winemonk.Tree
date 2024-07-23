@@ -26,6 +26,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="NamespaceDoc.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Winemonk.Tree.Observable\Winemonk.Tree.Observable.csproj" />
   </ItemGroup>
 
