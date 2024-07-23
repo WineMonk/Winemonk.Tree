@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Winemonk.Tree.Observable", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Winemonk.Tree.Observable.WPF", "Winemonk.Tree.Observable.WPF\Winemonk.Tree.Observable.WPF.csproj", "{6B3CC4D2-D51A-4EC3-88F0-438B2BD83737}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winemonk.Tree.Observable.WPF.Example", "Winemonk.Tree.Observable.WPF.Example\Winemonk.Tree.Observable.WPF.Example.csproj", "{C28848F4-BBD5-4E6E-9B26-B6EAF60BCC7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Winemonk.Tree.Observable.WPF.Example", "Winemonk.Tree.Observable.WPF.Example\Winemonk.Tree.Observable.WPF.Example.csproj", "{C28848F4-BBD5-4E6E-9B26-B6EAF60BCC7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
