@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
+using System.Text.Json;
 using System.Threading.Tasks;
 
 namespace Winemonk.Tree.Observable.WPF.Example
@@ -93,6 +94,10 @@ namespace Winemonk.Tree.Observable.WPF.Example
         [RelayCommand]
         private void Search()
         {
+            string jsonText = JsonSerializer.Serialize(TreeNodes[0], new JsonSerializerOptions()
+            {
+                Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping
+            });
             foreach (var item in TreeNodes)
             {
                 item.ObservableFilter(n => n.Name.Contains(SearchText));

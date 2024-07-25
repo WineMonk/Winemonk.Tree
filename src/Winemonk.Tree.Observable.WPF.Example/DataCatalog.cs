@@ -1,10 +1,12 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 using System.Collections.ObjectModel;
+using System.Text.Json.Serialization;
 
 namespace Winemonk.Tree.Observable.WPF.Example
 {
     public partial class DataCatalog : ObservableObject, IObservableTree<DataCatalog>
     {
+        [JsonIgnore]
         public DataCatalog Parent { get; set; }
 
         [ObservableProperty]

@@ -1,0 +1,57 @@
+﻿{
+    "Name": "Data Catalog",
+    "Children": [
+        {
+            "Name": "Vector",
+            "Children": [
+                {
+                    "Name": "行政区划",
+                    "Children": [
+                        {
+                            "Name": "北京行政区划",
+                            "Children": null
+                        },
+                        {
+                            "Name": "天津行政区划",
+                            "Children": null
+                        },
+                        {
+                            "Name": "河北行政区划",
+                            "Children": null
+                        }
+                    ]
+                },
+                {
+                    "Name": "管线",
+                    "Children": null
+                }
+            ]
+        },
+        {
+            "Name": "Raster",
+            "Children": [
+                {
+                    "Name": "正射影像",
+                    "Children": [
+                        {
+                            "Name": "北京遥感影像",
+                            "Children": null
+                        },
+                        {
+                            "Name": "天津遥感影像",
+                            "Children": null
+                        },
+                        {
+                            "Name": "河北遥感影像",
+                            "Children": null
+                        }
+                    ]
+                },
+                {
+                    "Name": "DEM",
+                    "Children": null
+                }
+            ]
+        }
+    ]
+}

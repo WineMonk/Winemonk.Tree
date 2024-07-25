@@ -22,9 +22,25 @@
 	<PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
 	<PackageProjectUrl>https://github.com/WineMonk/Winemonk.Tree/tree/master/Winemonk.Tree</PackageProjectUrl>
+	<ApplicationIcon>wm@32.ico</ApplicationIcon>
+	<PackageIcon>wm@128.png</PackageIcon>
+	<RepositoryUrl>https://github.com/WineMonk/Winemonk.Tree/tree/master/Winemonk.Tree</RepositoryUrl>
+	<PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
     <Compile Remove="NamespaceDoc.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="wm@32.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wm@128.png;README.md">
+      <Pack>True</Pack>
+	  <Visible>false</Visible>
+      <PackagePath>\</PackagePath>
+    </None>
   </ItemGroup>
 </Project>
