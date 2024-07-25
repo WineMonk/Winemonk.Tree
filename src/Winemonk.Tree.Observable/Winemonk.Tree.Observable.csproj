@@ -19,10 +19,10 @@ Basic tree structure, supporting node change perception, node filtering, and nod
 	<SignAssembly>False</SignAssembly>
 	<PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
-	<PackageProjectUrl>https://github.com/WineMonk/Winemonk.Tree/tree/master/Winemonk.Tree.Observable</PackageProjectUrl>
+	<PackageProjectUrl>https://github.com/WineMonk/Winemonk.Tree</PackageProjectUrl>
 	<ApplicationIcon>wm@32.ico</ApplicationIcon>
 	<PackageIcon>wm@128.png</PackageIcon>
-	<RepositoryUrl>https://github.com/WineMonk/Winemonk.Tree/tree/master/Winemonk.Tree</RepositoryUrl>
+	<RepositoryUrl>https://github.com/WineMonk/Winemonk.Tree</RepositoryUrl>
 	<PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 

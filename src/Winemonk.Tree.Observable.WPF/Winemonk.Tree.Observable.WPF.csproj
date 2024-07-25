@@ -20,10 +20,10 @@ Tree structure WPF extension, supporting node change perception, node structure/
 	<PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
 	<UseWPF>true</UseWPF>
-	<PackageProjectUrl>https://github.com/WineMonk/Winemonk.Tree/tree/master/Winemonk.Tree.Observable.WPF</PackageProjectUrl>
+	<PackageProjectUrl>https://github.com/WineMonk/Winemonk.Tree</PackageProjectUrl>
 	<ApplicationIcon>wm@32.ico</ApplicationIcon>
 	<PackageIcon>wm@128.png</PackageIcon>
-	<RepositoryUrl>https://github.com/WineMonk/Winemonk.Tree/tree/master/Winemonk.Tree</RepositoryUrl>
+	<RepositoryUrl>https://github.com/WineMonk/Winemonk.Tree</RepositoryUrl>
 	<PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
