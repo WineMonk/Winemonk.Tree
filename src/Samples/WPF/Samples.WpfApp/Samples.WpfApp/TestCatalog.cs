@@ -1,37 +1,38 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 using System.Collections.ObjectModel;
 using System.Text.Json.Serialization;
+using Winemonk.Tree.Observable;
 
-namespace Winemonk.Tree.Observable.WPF.Example
+namespace Samples.WpfApp
 {
-    public partial class DataCatalog : ObservableObject, IObservableTree<DataCatalog>
+    public partial class TestCatalog : ObservableObject, IObservableTree<TestCatalog>
     {
         [JsonIgnore]
-        public DataCatalog Parent { get; set; }
+        public TestCatalog Parent { get; set; }
 
         [ObservableProperty]
         private string _name;
 
         [ObservableProperty]
-        private ObservableCollection<DataCatalog> _children;
+        private ObservableCollection<TestCatalog> _children;
         //public ObservableCollection<TestTreeNode> Children 
         //{
         //    get => _children;
         //    set => SetProperty(ref _children, value);
         //}
 
-        public DataCatalog Clone()
+        public TestCatalog Clone()
         {
-            DataCatalog clone = new DataCatalog
+            TestCatalog clone = new TestCatalog
             {
                 Name = _name,
             };
             if (Children?.Count > 0)
             {
-                clone.Children = new ObservableCollection<DataCatalog>();
+                clone.Children = new ObservableCollection<TestCatalog>();
                 foreach (var child in Children)
                 {
-                    DataCatalog subClone = child.Clone();
+                    TestCatalog subClone = child.Clone();
                     subClone.Parent = this;
                     clone.Children.Add(subClone);
                 }

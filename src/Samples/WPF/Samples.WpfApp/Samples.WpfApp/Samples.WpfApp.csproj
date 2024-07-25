@@ -9,19 +9,17 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="res\Text.json" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Compile Include="res\Text.json" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.2" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Winemonk.Tree.Observable.WPF\Winemonk.Tree.Observable.WPF.csproj" />
+    <ProjectReference Include="..\..\..\..\Winemonk.Tree.Observable.WPF\Winemonk.Tree.Observable.WPF.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="res\Test.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>

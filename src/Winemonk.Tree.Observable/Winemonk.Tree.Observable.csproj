@@ -7,10 +7,8 @@
 	<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 	<Title>Winemonk.Tree.Observable</Title>
 	<Authors>Winemonk</Authors>
-	<Description>
-		基础树结构，支持节点变化感知，节点过滤、节点遍历。
-		Basic tree structure, supporting node change perception, node filtering, and node traversal.
-	</Description>
+	<Description>基础树结构，支持节点变化感知，节点过滤、节点遍历。
+Basic tree structure, supporting node change perception, node filtering, and node traversal.</Description>
 	<Copyright>©2024 By Winemonk</Copyright>
 	<PackageTags>Tree;Observable Tree;</PackageTags>
 	<NeutralLanguage>zh-CN</NeutralLanguage>
@@ -22,9 +20,31 @@
 	<PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
 	<PackageProjectUrl>https://github.com/WineMonk/Winemonk.Tree/tree/master/Winemonk.Tree.Observable</PackageProjectUrl>
+	<ApplicationIcon>wm@32.ico</ApplicationIcon>
+	<PackageIcon>wm@128.png</PackageIcon>
+	<RepositoryUrl>https://github.com/WineMonk/Winemonk.Tree/tree/master/Winemonk.Tree</RepositoryUrl>
+	<PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
     <Compile Remove="NamespaceDoc.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+  	<Content Include="wm@32.ico">
+  	  <Visible>false</Visible>
+  	</Content>
+  </ItemGroup>
+  
+  <ItemGroup>
+  	<None Include="wm@128.png">
+  	  <Pack>True</Pack>
+  	  <Visible>false</Visible>
+  	  <PackagePath>\</PackagePath>
+  	</None>
+  	<None Include="README.md">
+  	  <Pack>True</Pack>
+  	  <PackagePath>\</PackagePath>
+  	</None>
   </ItemGroup>
 </Project>

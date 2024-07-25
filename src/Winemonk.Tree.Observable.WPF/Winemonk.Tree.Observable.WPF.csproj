@@ -7,10 +7,8 @@
 	<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 	<Title>Winemonk.Tree.Observable.WPF</Title>
 	<Authors>Winemonk</Authors>
-	<Description>
-		树结构WPF扩展，支持节点变化感知、节点结构/视图显示过滤、节点遍历。
-		Tree structure WPF extension, supporting node change perception, node structure/view display filtering, and node traversal.
-	</Description>
+	<Description>树结构WPF扩展，支持节点变化感知、节点结构/视图显示过滤、节点遍历。
+Tree structure WPF extension, supporting node change perception, node structure/view display filtering, and node traversal.</Description>
 	<Copyright>©2024 By Winemonk</Copyright>
 	<PackageTags>Tree;Observable Tree;</PackageTags>
 	<NeutralLanguage>zh-CN</NeutralLanguage>
@@ -23,10 +21,33 @@
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
 	<UseWPF>true</UseWPF>
 	<PackageProjectUrl>https://github.com/WineMonk/Winemonk.Tree/tree/master/Winemonk.Tree.Observable.WPF</PackageProjectUrl>
+	<ApplicationIcon>wm@32.ico</ApplicationIcon>
+	<PackageIcon>wm@128.png</PackageIcon>
+	<RepositoryUrl>https://github.com/WineMonk/Winemonk.Tree/tree/master/Winemonk.Tree</RepositoryUrl>
+	<PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
     <Compile Remove="NamespaceDoc.cs" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+  	<Content Include="wm@32.ico">
+  	  <Visible>false</Visible>
+  	</Content>
+  </ItemGroup>
+  
+  <ItemGroup>
+  	<None Include="wm@128.png">
+  	  <Pack>True</Pack>
+  	  <Visible>false</Visible>
+  	  <PackagePath>\</PackagePath>
+  	</None>
+  	<None Include="README.md">
+  	  <Pack>True</Pack>
+  	  <PackagePath>\</PackagePath>
+  	</None>
   </ItemGroup>
 
   <ItemGroup>

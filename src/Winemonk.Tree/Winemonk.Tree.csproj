@@ -33,14 +33,20 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="wm@32.ico" />
+	<Content Include="wm@32.ico" >
+	  <Visible>false</Visible>
+	</Content>
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="wm@128.png;README.md">
-      <Pack>True</Pack>
-	  <Visible>false</Visible>
-      <PackagePath>\</PackagePath>
-    </None>
+  	<None Include="wm@128.png">
+  	  <Pack>True</Pack>
+  	  <Visible>false</Visible>
+  	  <PackagePath>\</PackagePath>
+  	</None>
+  	<None Include="README.md">
+  	  <Pack>True</Pack>
+  	  <PackagePath>\</PackagePath>
+  	</None>
   </ItemGroup>
 </Project>

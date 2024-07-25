@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace Winemonk.Tree.Observable.WPF.Example
+namespace Samples.WpfApp
 {
     /// <summary>
     /// Interaction logic for App.xaml

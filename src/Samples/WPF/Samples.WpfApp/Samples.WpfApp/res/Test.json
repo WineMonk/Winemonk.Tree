@@ -1,0 +1,134 @@
+﻿{
+  "Name": "Global Tech Corporation",
+  "Children": [
+    {
+      "Name": "Research and Development Center",
+      "Children": [
+        {
+          "Name": "Software Division",
+          "Children": [
+            {
+              "Name": "Web Development Team",
+              "Children": [
+                {
+                  "Name": "Front-End Subteam",
+                  "Children": []
+                },
+                {
+                  "Name": "Back-End Subteam",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "Mobile Apps Team",
+              "Children": [
+                {
+                  "Name": "iOS Development Subteam",
+                  "Children": []
+                },
+                {
+                  "Name": "Android Development Subteam",
+                  "Children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "Hardware Division",
+          "Children": [
+            {
+              "Name": "Electrical Engineering Team",
+              "Children": [
+                {
+                  "Name": "Circuit Design Subteam",
+                  "Children": []
+                },
+                {
+                  "Name": "Prototyping and Testing Subteam",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "Mechanical Engineering Team",
+              "Children": [
+                {
+                  "Name": "Structural Design Subteam",
+                  "Children": []
+                },
+                {
+                  "Name": "Materials Research Subteam",
+                  "Children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Sales and Marketing Department",
+      "Children": [
+        {
+          "Name": "North America Sales Region",
+          "Children": [
+            {
+              "Name": "East Coast Sales Team",
+              "Children": []
+            },
+            {
+              "Name": "Canada Sales Team",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Name": "Europe Sales Region",
+          "Children": [
+            {
+              "Name": "UK Sales Team",
+              "Children": []
+            },
+            {
+              "Name": "Germany Sales Team",
+              "Children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Administration and Human Resources Department",
+      "Children": [
+        {
+          "Name": "Employee Relations Group",
+          "Children": [
+            {
+              "Name": "Employee Benefits Subgroup",
+              "Children": []
+            },
+            {
+              "Name": "Employee Development Subgroup",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Name": "Administrative Support Group",
+          "Children": [
+            {
+              "Name": "Facilities Management Subgroup",
+              "Children": []
+            },
+            {
+              "Name": "Procurement Subgroup",
+              "Children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
