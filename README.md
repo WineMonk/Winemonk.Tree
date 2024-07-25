@@ -1,4 +1,4 @@
-<img align="right" height="150px" src="https://raw.githubusercontent.com/WineMonk/images/master/blog/post/202407251043371.png">
+<img align="right" height="72px" src="https://raw.githubusercontent.com/WineMonk/images/master/blog/post/202407251043371.png">
 
 # Winemonk.Tree
 
