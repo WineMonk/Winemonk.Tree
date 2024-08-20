@@ -5,21 +5,25 @@ using Winemonk.Tree.Observable;
 
 namespace Samples.WpfApp
 {
-    public partial class TestCatalog : ObservableObject, IObservableTree<TestCatalog>
+    public class TestCatalog : ObservableObject, IObservableTree<TestCatalog>
     {
+        private string _name;
+        private ObservableCollection<TestCatalog> _children;
+
+        public string Name
+        {
+            get => _name;
+            set => SetProperty(ref _name, value);
+        }
+
+        public ObservableCollection<TestCatalog> Children
+        {
+            get => _children;
+            set => SetProperty(ref _children, value);
+        }
+
         [JsonIgnore]
         public TestCatalog Parent { get; set; }
-
-        [ObservableProperty]
-        private string _name;
-
-        [ObservableProperty]
-        private ObservableCollection<TestCatalog> _children;
-        //public ObservableCollection<TestTreeNode> Children 
-        //{
-        //    get => _children;
-        //    set => SetProperty(ref _children, value);
-        //}
 
         public TestCatalog Clone()
         {
